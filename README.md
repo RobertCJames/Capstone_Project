@@ -4,11 +4,11 @@ Introduction
 
 The 2015 South Carolina floods, caused by days of rainfall leading to dam failures, exposed vulnerabilities in dam infrastructure, emergency preparedness, and the disparities in community recovery. With 19 lives lost and $1.4 billion in damages, the incident highlighted the critical need for effective disaster prevention strategies as extreme weather events become increasingly frequent. This project investigates the relationship between dam safety and socioeconomic factors in South Carolina, to uncover systemic inequities and guide equitable policy interventions.  
 
-Purpose:   
+# Purpose
 
 The primary purpose of this study was to analyze the disparities in dam safety conditions across South Carolina, focusing on socioeconomic and racial inequities. By merging dam information with demographic analysis, I sought uncover systemic risks, evaluate emergency preparedness, and provide actionable recommendations for equitable disaster mitigation policies.  
 
-Methodology  
+# Methodology  
 
 Data Sources:  
 
@@ -38,7 +38,7 @@ Chi-squared and correlation analyses to explore relationships between dam safety
 
 Random Forest and XGBoost Machine learning model to identify predictors of dam risk.  
 
-Analysis 
+# Analysis 
 
 Key Findings: 
 
@@ -54,7 +54,7 @@ Inspection Frequency: Regular inspections were strongly correlated with improved
 
 Race vs. Economic Disparities: While race alone was not a strong predictor of dam risk, socioeconomic disadvantages (which disproportionately impact Black communities in South Carolina) emerged as a significant factor in assessing vulnerability.    
 
-Recommendations  
+# Recommendations  
 
   
 
@@ -68,7 +68,7 @@ Community Outreach: Establish educational programs to increase awareness of dam 
 
 Statewide Policy Reform: Advocate for consistent statewide standards for dam safety and equitable allocation of disaster mitigation resources.  
 
- Implementation  
+ # Implementation  
 
 Timeline:  
 
@@ -104,6 +104,6 @@ Inequitable resource distribution
 
 Legal challenges from dam owners  
 
- Conclusion  
+ # Conclusion  
 
 South Carolina’s 2015 floods demonstrated the devastating consequences of neglected infrastructure and inequitable disaster response systems. By addressing the systemic disparities identified in this study, through improved dam safety, enhanced preparedness, and equitable investments, the state can build resilience against future extreme weather disasters. These steps will not only save lives but also create a foundation for long term socioeconomic and environmental stability.  
